@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/kabelanbalachandran99.lwc-basics-1-tryout",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve fFphyslhubSDyn7T3GzM --open"
+  }
+}
